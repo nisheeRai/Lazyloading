@@ -1,0 +1,103 @@
+<div class="container-fluid">
+
+  <header>
+    <div class="container">
+      <div class="row">
+        <div class="col-6 col-sm-8 col-md-9">
+          <div id="logo" width="1" height="1" routerLink="/Home" routerLinkActive="is-active"></div>
+        </div>
+        <!--Hamburger-->
+        <div class="col-3 col-sm-4 col-md-3">
+          <button (click)="displayInCart(); toggle()" id="btToggle" type="button" class="float-right btn cart btn-outline-secondary mr-2"
+            placement="bottom">
+            <div id="cartImg"></div>
+            <!--Stock Status-->
+            <p id="txt">
+              {{shoppingService.count}} Items in Cart
+            </p>
+          </button>
+          <!--Cart Status Dialog Box-->
+          
+          <div *ngIf=" shoppingService.count==0 && isValid; then thenZeroItemInCart else elseItemInCart" >
+
+          </div>
+          
+          <ng-template #thenZeroItemInCart>
+            <div id="dialogBox">
+              <span>No Item in Cart</span>
+            </div>
+          </ng-template>
+          <ng-template #elseItemInCart>
+            <!--Product Details in Cart-->
+            <div *ngIf="show_dialog">
+              <div id="dialogBox" class="cartHeight">
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th scope="col">Product Name</th>
+                      <th scope="col">Size</th>
+                      <th scope="col">Price</th>
+                      <th scope="col"> </th>
+                    </tr>
+                  </thead>
+                  <!--PRODUCT_DETAIL-->
+                  <tbody>
+                    <tr *ngFor="let product of shoppingService.productsSelected; index as i">
+                      <td scope="row">{{product.name}}</td>
+                      <td>
+                        {{product.size}}
+                      </td>
+                      <td>{{product.price}}</td>
+                      <td> <button (click)="removeFromCart(i,product.price)" type="button" class="close" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button></td>
+                    </tr>
+                    <!--Total Amount To Be Pay-->
+                    <tr>
+                      <td colspan="3" class="text-right">
+                        Total Rs. {{shoppingService.totalPay}}
+                      </td>
+                      <td></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+
+            </div>
+          </ng-template>
+        
+        </div>
+        <!--Navbar-->
+        <div>
+          <nav class="navbar navbar-expand-sm bg-nav navbar-dark">
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+              <ul class="navbar-nav">
+                <li class="nav-item" routerLink="/Men" [routerLinkActive]="['active']" [routerLinkActiveOptions]="{exact:true}">
+                  <a class="nav-link">Men</a>
+                </li>
+                <li class="nav-item" routerLink="/Women"  [routerLinkActive]="['active']" [routerLinkActiveOptions]="{exact:true}">
+                  <a class="nav-link">Women</a>
+                </li>
+                <li class="nav-item" routerLink="/Baby"  [routerLinkActive]="['active']" [routerLinkActiveOptions]="{exact:true}">
+                  <a class="nav-link">Baby & Kids</a>
+                </li>
+                <li class="nav-item" routerLink="/Brands"  [routerLinkActive]="['active']" [routerLinkActiveOptions]="{exact:true}">
+                  <a class="nav-link">Brands</a>
+                </li>
+                <li class="nav-item" routerLink="/Accessories"  [routerLinkActive]="['active']" [routerLinkActiveOptions]="{exact:true}">
+                  <a class="nav-link">Accessories</a>
+                </li>
+                <li class="nav-item " routerLink="/Offer"  [routerLinkActive]="['active']" [routerLinkActiveOptions]="{exact:true}">
+                  <a class="nav-link">offer Zone</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+</div>

@@ -1,0 +1,93 @@
+<div class="container">
+  <div class="jumbotron">
+    <h2>Contact Us</h2>
+    <form name="form" [formGroup]="form" (ngSubmit)="form.valid && onSubmit()">
+    <!-- <form name="form" [formGroup]="form" (ngSubmit)="form.valid && onSubmit()"> -->
+      <ul>
+        <li>
+          <div class="form-group">
+            <label for="Name">Name</label>
+            <input #box (keyup.enter)="update(box.value)" (blur)="update(box.value)" type="text"
+              (keypress)="omit_special_char_no($event)" class="form-control" formControlName="Name"
+              [ngClass]="{'is-invalid':form.get('Name').touched && form.get('Name').invalid}" required />
+            <div class="invalid-feedback">
+              <div>Name is required</div>
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <div class="form-group">
+            <label for="Address">Address</label>
+            <input type="text" class="form-control" formControlName="Address"
+              [ngClass]="{'is-invalid':form.get('Address').touched && form.get('Address').invalid}" />
+            <div class="invalid-feedback">
+              <div>Enter Valid Address</div>
+            </div>
+          </div>
+          <ul>
+            <li>
+              <div class="form-group">
+                <label for="Pincode">Pincode</label>
+                <input type="text" class="form-control" formControlName="Pincode"
+                  [ngClass]="{'is-invalid':form.get('Pincode').touched && form.get('Pincode').invalid}" />
+
+                <div class="invalid-feedback">
+                  <div>Enter Valid Pincode</div>
+                </div>
+              </div>
+            </li>
+          </ul>
+
+        </li>
+
+        <li>
+          <div class="form-group">
+            <label for="Phone">Phone No.</label>
+            <input type="text" class="form-control" formControlName="Phone"
+              [ngClass]="{'is-invalid':form.get('Phone').touched && form.get('Phone').invalid}" required />
+            <div class="invalid-feedback">
+              <div>Please provide 10 digit Phone No.</div>
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="text" class="form-control" formControlName="email"
+              [ngClass]="{'is-invalid':form.get('email').touched && form.get('email').invalid}" />
+            <div *ngIf="form.get('email').touched && form.get('email').invalid" class="invalid-feedback">
+              <div *ngIf="form.get('email').errors.required">Email Name is required</div>
+              <div *ngIf="form.get('email').errors.email">Email must be a valid email Address</div>
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <div class="form-group">
+            <label for="Comment">Comment</label>
+            <input type="textbox" class="form-control" formControlName="Comment"
+              [ngClass]="{'is-invalid':form.get('Comment').touched && form.get('Phone').invalid}" />
+          </div>
+        </li>
+      </ul>
+
+      <div class="form-group">
+        <ng-template #content let-c="close" let-d="dismiss">
+          <div class="modal-header">
+            <h4 class="modal-title" id="modal-basic-title">Hi {{value}}!</h4>
+            <button type="button" class="close" aria-label="Close" (click)="d('Cross click')">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p>Sucessfully Submitted!</p>
+
+          </div>
+        </ng-template>
+        <button class="btn btn-primary" type="submit" (click)="open(content)" [disabled]="!form.valid">Register</button>
+      </div>
+    </form>
+  </div>
+</div>

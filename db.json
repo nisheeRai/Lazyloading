@@ -1,0 +1,794 @@
+{
+  "Men": {
+    "Shirt": [
+      {
+        "id": "01",
+        "name": "Jhon Playes Men's Blues Striped Casual Shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 719,
+        "image": "assets/Images/Men/product_1.png",
+        "t_image_1": "assets/Images/Men/product_1_thumb.png",
+        "image_2": "assets/Images/Men/product_2.png",
+        "t_image_2": "assets/Images/Men/product_2_thumb.png",
+        "image_3": "assets/Images/Men/product_3.png",
+        "t_image_3": "assets/Images/Men/product_3_thumb.png",
+        "offerText": "Buy Jhon Playes Men's Striped Casual Shirt worth 2499 or more get 33% off Offer valid on selected items only"
+      },
+      {
+        "id": "02",
+        "name": "John Players Yellow Solid Slim Fit Casual Shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 840,
+        "image": "assets/Images/Men/2-1.png",
+        "t_image_1": "assets/Images/Men/2-1t.png",
+        "image_2": "assets/Images/Men/2-2.png",
+        "t_image_2": "assets/Images/Men/2-2t.png",
+        "image_3": "assets/Images/Men/2-3.png",
+        "t_image_3": "assets/Images/Men/2-3t.png",
+        "offerText": "Buy Jhon Playes Men's Striped Casual Shirt worth 2499 or more get 33% off Offer valid on selected items only"
+      },
+      {
+        "id": "03",
+        "name": "John Players Green Solid Slim Fit Casual Shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 909,
+        "image": "assets/Images/Men/3-1.png",
+        "t_image_1": "assets/Images/Men/3-1t.png",
+        "image_2": "assets/Images/Men/3-2.png",
+        "t_image_2": "assets/Images/Men/3-2t.png",
+        "image_3": "assets/Images/Men/3-3.png",
+        "t_image_3": "assets/Images/Men/3-3t.png",
+        "offerText": "Buy Jhon Playes Men's Striped Casual Shirt worth 2499 or more get 33% off Offer valid on selected items only"
+      },
+      {
+        "id": "04",
+        "name": "John Players Maroon Solid Slim Fit Casual Shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1019,
+        "image": "assets/Images/Men/4-1.png",
+        "t_image_1": "assets/Images/Men/4-1t.png",
+        "image_2": "assets/Images/Men/4-2.png",
+        "t_image_2": "assets/Images/Men/4-2t.png",
+        "image_3": "assets/Images/Men/4-3.png",
+        "t_image_3": "assets/Images/Men/4-3t.png",
+        "offerText": "Buy Jhon Playes Men's Striped Casual Shirt worth 2499 or more get 33% off Offer valid on selected items only"
+      },
+      {
+        "id": "05",
+        "name": "Jhon Playes White Solid Slim Fit Casual Shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1799,
+        "image": "assets/Images/Men/5-1.png",
+        "t_image_1": "assets/Images/Men/5-1t.png",
+        "image_2": "assets/Images/Men/5-2.png",
+        "t_image_2": "assets/Images/Men/5-2t.png",
+        "image_3": "assets/Images/Men/5-3.png",
+        "t_image_3": "assets/Images/Men/5-3t.png",
+        "offerText": "Buy Jhon Playes Men's Striped Casual Shirt worth 2499 or more get 33% off Offer valid on selected items only"
+      },
+      {
+        "id": "06",
+        "name": "John Players Blue Solid Regular Fit Formal Shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1039,
+        "image": "assets/Images/Men/6-1.png",
+        "t_image_1": "assets/Images/Men/6-1t.png",
+        "image_2": "assets/Images/Men/6-2.png",
+        "t_image_2": "assets/Images/Men/6-2t.png",
+        "image_3": "assets/Images/Men/6-3.png",
+        "t_image_3": "assets/Images/Men/6-3t.png",
+        "offerText": "Buy Jhon Playes Men's Striped Casual Shirt worth 2499 or more get 33% off Offer valid on selected items only"
+      },
+      {
+        "id": "07",
+        "name": "John Players Blue Textured Slim Fit Casual Shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1599,
+        "image": "assets/Images/Men/7-1.png",
+        "t_image_1": "assets/Images/Men/7-1t.png",
+        "image_2": "assets/Images/Men/7-2.png",
+        "t_image_2": "assets/Images/Men/7-2t.png",
+        "image_3": "assets/Images/Men/7-3.png",
+        "t_image_3": "assets/Images/Men/7-3t.png",
+        "offerText": "Buy Jhon Playes Men's Striped Casual Shirt worth 2499 or more get 33% off Offer valid on selected items only"
+      },
+      {
+        "id": "08",
+        "name": "John Players Men's Blue Solid Slim Fit Casual Shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1279,
+        "image": "assets/Images/Men/8-1.png",
+        "t_image_1": "assets/Images/Men/8-1t.png",
+        "image_2": "assets/Images/Men/8-2.png",
+        "t_image_2": "assets/Images/Men/8-2t.png",
+        "image_3": "assets/Images/Men/8-3.png",
+        "t_image_3": "assets/Images/Men/8-3t.png",
+        "offerText": "Buy Jhon Playes Men's Striped Casual Shirt worth 2499 or more get 33% off Offer valid on selected items only"
+      }
+    ]
+  },
+  "Women": {
+    "Kurtis": [
+      {
+        "id": "01",
+        "name": "Biba Women White Solid Straight Kurta",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 719,
+        "image": "assets/Images/Women/1-1.png",
+        "t_image_1": "assets/Images/Women/1-1t.png",
+        "image_2": "assets/Images/Women/1-2.png",
+        "t_image_2": "assets/Images/Women/1-2t.png",
+        "image_3": "assets/Images/Women/1-3.png",
+        "t_image_3": "assets/Images/Women/1-3t.png",
+        "offerText": "Buy Women's Casual Shirt worth 1499 or more get 43% off Offer valid on selected items only"
+      },
+      {
+        "id": "02",
+        "name": "Biba Women Navy Blue & Orange Printed Layered Anarkali Kurta",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 840,
+        "image": "assets/Images/Women/2-1.png",
+        "t_image_1": "assets/Images/Women/2-1t.png",
+        "image_2": "assets/Images/Women/2-2.png",
+        "t_image_2": "assets/Images/Women/2-2t.png",
+        "image_3": "assets/Images/Women/2-3.png",
+        "t_image_3": "assets/Images/Women/2-3t.png",
+        "offerText": "Buy Women's Casual Shirt worth 1499 or more get 43% off Offer valid on selected items only"
+      },
+      {
+        "id": "03",
+        "name": "Biba Women Navy Blue Solid Straight Kurta",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 909,
+        "image": "assets/Images/Women/3-1.png",
+        "t_image_1": "assets/Images/Women/3-1t.png",
+        "image_2": "assets/Images/Women/3-2.png",
+        "t_image_2": "assets/Images/Women/3-2t.png",
+        "image_3": "assets/Images/Women/3-3.png",
+        "t_image_3": "assets/Images/Women/3-3t.png",
+        "offerText": "Buy Women's Casual Shirt worth 1499 or more get 43% off Offer valid on selected items only"
+      },
+      {
+        "id": "04",
+        "name": "Biba Women Black Embroidered A-Line Kurta",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1019,
+        "image": "assets/Images/Women/4-1.png",
+        "t_image_1": "assets/Images/Women/4-1t.png",
+        "image_2": "assets/Images/Women/4-2.png",
+        "t_image_2": "assets/Images/Women/4-2t.png",
+        "image_3": "assets/Images/Women/4-3.png",
+        "t_image_3": "assets/Images/Women/4-3t.png",
+        "offerText": "Buy Women's Casual Shirt worth 1499 or more get 43% off Offer valid on selected items only"
+      },
+      {
+        "id": "05",
+        "name": "Biba Women Blue & Red Printed Layered A-Line Kurta",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1799,
+        "image": "assets/Images/Women/5-1.png",
+        "t_image_1": "assets/Images/Women/5-1t.png",
+        "image_2": "assets/Images/Women/5-2.png",
+        "t_image_2": "assets/Images/Women/5-2t.png",
+        "image_3": "assets/Images/Women/5-3.png",
+        "t_image_3": "assets/Images/Women/5-3t.png",
+        "offerText": "Buy Women's Casual Shirt worth 1499 or more get 43% off Offer valid on selected items only"
+      },
+      {
+        "id": "06",
+        "name": "Biba Women Red Solid Straight Kurta",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1039,
+        "image": "assets/Images/Women/6-1.png",
+        "t_image_1": "assets/Images/Women/6-1t.png",
+        "image_2": "assets/Images/Women/6-2.png",
+        "t_image_2": "assets/Images/Women/6-2t.png",
+        "image_3": "assets/Images/Women/6-3.png",
+        "t_image_3": "assets/Images/Women/6-3t.png",
+        "offerText": "Buy Women's Casual Shirt worth 1499 or more get 43% off Offer valid on selected items only"
+      },
+      {
+        "id": "07",
+        "name": "Biba Women Coral Red & Golden Yoke Design Layered A-Line Kurta",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1599,
+        "image": "assets/Images/Women/7-1.png",
+        "t_image_1": "assets/Images/Women/7-1t.png",
+        "image_2": "assets/Images/Women/7-2.png",
+        "t_image_2": "assets/Images/Women/7-2t.png",
+        "image_3": "assets/Images/Women/7-3.png",
+        "t_image_3": "assets/Images/Women/7-3t.png",
+        "offerText": "Buy Women's Casual Shirt worth 1499 or more get 43% off Offer valid on selected items only"
+      },
+      {
+        "id": "08",
+        "name": "Biba Women Navy Blue Yoke Design A-Line Kurta",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1279,
+        "image": "assets/Images/Women/8-1.png",
+        "t_image_1": "assets/Images/Women/8-1t.png",
+        "image_2": "assets/Images/Women/8-2.png",
+        "t_image_2": "assets/Images/Women/8-2t.png",
+        "image_3": "assets/Images/Women/8-3.png",
+        "t_image_3": "assets/Images/Women/8-3t.png",
+        "offerText": "Buy Women's Casual Shirt worth 1499 or more get 43% off Offer valid on selected items only"
+      }
+    ]
+  },
+  "Baby": {
+    "Cloths": [
+      {
+        "id": "01",
+        "name": "YK Basics Boys Pack of 5 Round Neck T-shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 719,
+        "image": "assets/Images/Baby/1-1.png",
+        "t_image_1": "assets/Images/Baby/1-1t.png",
+        "image_2": "assets/Images/Baby/1-2.png",
+        "t_image_2": "assets/Images/Baby/1-2t.png",
+        "image_3": "assets/Images/Baby/1-3.png",
+        "t_image_3": "assets/Images/Baby/1-3t.png",
+        "offerText": "Buy Baby and Kids Cloths worth 1099 or more get 53% off Offer valid on selected items only"
+      },
+      {
+        "id": "02",
+        "name": "YK Boys Pack of 2 Printed Round Neck T-shirts",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 840,
+        "image": "assets/Images/Baby/2-1.png",
+        "t_image_1": "assets/Images/Baby/2-1t.png",
+        "image_2": "assets/Images/Baby/2-2.png",
+        "t_image_2": "assets/Images/Baby/2-2t.png",
+        "image_3": "assets/Images/Baby/2-3.png",
+        "t_image_3": "assets/Images/Baby/2-3t.png",
+        "offerText": "Buy Baby and Kids Cloths worth 1099 or more get 53% off Offer valid on selected items only"
+      },
+      {
+        "id": "03",
+        "name": "LilPicks Multicoloured Printed Basic Jumpsuit",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 909,
+        "image": "assets/Images/Baby/3-1.png",
+        "t_image_1": "assets/Images/Baby/3-1t.png",
+        "image_2": "assets/Images/Baby/3-2.png",
+        "t_image_2": "assets/Images/Baby/3-2t.png",
+        "image_3": "assets/Images/Baby/3-3.png",
+        "t_image_3": "assets/Images/Baby/3-3t.png",
+        "offerText": "Buy Baby and Kids Cloths worth 1099 or more get 53% off Offer valid on selected items only"
+      },
+      {
+        "id": "04",
+        "name": "Naughty ninos Girls White & Pink Printed Fit and Flare Dress",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1019,
+        "image": "assets/Images/Baby/4-1.png",
+        "t_image_1": "assets/Images/Baby/4-1t.png",
+        "image_2": "assets/Images/Baby/4-2.png",
+        "t_image_2": "assets/Images/Baby/4-2t.png",
+        "image_3": "assets/Images/Baby/4-3.png",
+        "t_image_3": "assets/Images/Baby/4-3t.png",
+        "offerText": "Buy Baby and Kids Cloths worth 1099 or more get 53% off Offer valid on selected items only"
+      },
+      {
+        "id": "05",
+        "name": "Cherry Crumble Girls Teal Blue Printed Fit and Flare Dress",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1799,
+        "image": "assets/Images/Baby/5-1.png",
+        "t_image_1": "assets/Images/Baby/5-1t.png",
+        "image_2": "assets/Images/Baby/5-2.png",
+        "t_image_2": "assets/Images/Baby/5-2t.png",
+        "image_3": "assets/Images/Baby/5-3.png",
+        "t_image_3": "assets/Images/Baby/5-3t.png",
+        "offerText": "Buy Baby and Kids Cloths worth 1099 or more get 53% off Offer valid on selected items only"
+      },
+      {
+        "id": "06",
+        "name": "Next Boys White Regular Fit Solid Regular Trousers",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1039,
+        "image": "assets/Images/Baby/6-1.png",
+        "t_image_1": "assets/Images/Baby/6-1t.png",
+        "image_2": "assets/Images/Baby/6-2.png",
+        "t_image_2": "assets/Images/Baby/6-2t.png",
+        "image_3": "assets/Images/Baby/6-3.png",
+        "t_image_3": "assets/Images/Baby/6-3t.png",
+        "offerText": "Buy Baby and Kids Cloths worth 1099 or more get 53% off Offer valid on selected items only"
+      },
+      {
+        "id": "07",
+        "name": "YK Boys Black Regular Fit Mid-Rise Clean Look Stretchable Jeans",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1599,
+        "image": "assets/Images/Baby/7-1.png",
+        "t_image_1": "assets/Images/Baby/7-1t.png",
+        "image_2": "assets/Images/Baby/7-2.png",
+        "t_image_2": "assets/Images/Baby/7-2t.png",
+        "image_3": "assets/Images/Baby/7-3.png",
+        "t_image_3": "assets/Images/Baby/7-3t.png",
+        "offerText": "Buy Baby and Kids Cloths worth 1099 or more get 53% off Offer valid on selected items only"
+      },
+      {
+        "id": "08",
+        "name": "Naughty ninos Girls Black Floral Print Jumpsuit",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1279,
+        "image": "assets/Images/Baby/8-1.png",
+        "t_image_1": "assets/Images/Baby/8-1t.png",
+        "image_2": "assets/Images/Baby/8-2.png",
+        "t_image_2": "assets/Images/Baby/8-2t.png",
+        "image_3": "assets/Images/Baby/8-3.png",
+        "t_image_3": "assets/Images/Baby/8-3t.png",
+        "offerText": "Buy Baby and Kids Cloths worth 1099 or more get 53% off Offer valid on selected items only"
+      }
+    ]
+  },
+  "Brand": {
+    "brand1": [
+      {
+        "id": "01",
+        "image": "assets/Images/Brands/1.png"
+      },
+      {
+        "id": "02",
+        "image": "assets/Images/Brands/2.png"
+      },
+      {
+        "id": "03",
+        "image": "assets/Images/Brands/3.png"
+      },
+      {
+        "id": "04",
+        "image": "assets/Images/Brands/4.png"
+      },
+      {
+        "id": "05",
+        "image": "assets/Images/Brands/5.png"
+      },
+      {
+        "id": "06",
+        "image": "assets/Images/Brands/6.png"
+      },
+      {
+        "id": "07",
+        "image": "assets/Images/Brands/7.png"
+      },
+      {
+        "id": "08",
+        "image": "assets/Images/Brands/8.png"
+      }
+    ]
+  },
+  "Accessories": {
+    "Access": [
+      {
+        "id": "01",
+        "name": "Men Brown Solid Two Fold Leather Wallet",
+        "size": [
+          "One Size"
+        ],
+        "price": 719,
+        "image": "assets/Images/Accessories/1-1.png",
+        "t_image_1": "assets/Images/Accessories/1-1t.png",
+        "image_2": "assets/Images/Accessories/1-2.png",
+        "t_image_2": "assets/Images/Accessories/1-2t.png",
+        "image_3": "assets/Images/Accessories/1-3.png",
+        "t_image_3": "assets/Images/Accessories/1-3t.png",
+        "offerText": "Buy 2 and Get 1 FREE"
+      },
+      {
+        "id": "02",
+        "name": "Men Black Solid Two Fold Wallet",
+        "size": [
+          "One Size"
+        ],
+        "price": 840,
+        "image": "assets/Images/Accessories/2-1.png",
+        "t_image_1": "assets/Images/Accessories/2-1t.png",
+        "image_2": "assets/Images/Accessories/2-2.png",
+        "t_image_2": "assets/Images/Accessories/2-2t.png",
+        "image_3": "assets/Images/Accessories/2-3.png",
+        "t_image_3": "assets/Images/Accessories/2-3t.png",
+        "offerText": "Buy 2 and Get 1 FREE"
+      },
+      {
+        "id": "03",
+        "name": "Men Green Striped Broad Tie",
+        "size": [
+          "One Size"
+        ],
+        "price": 909,
+        "image": "assets/Images/Accessories/3-1.png",
+        "t_image_1": "assets/Images/Accessories/3-1t.png",
+        "image_2": "assets/Images/Accessories/3-2.png",
+        "t_image_2": "assets/Images/Accessories/3-2t.png",
+        "image_3": "assets/Images/Accessories/3-3.png",
+        "t_image_3": "assets/Images/Accessories/3-3t.png",
+        "offerText":"Buy 2 and Get 1 FREE"
+      },
+      {
+        "id": "04",
+        "name": "Men Navy Blue C40 5P Climalite Training Cap",
+        "size": [
+          "One Size"
+        ],
+        "price": 1019,
+        "image": "assets/Images/Accessories/4-1.png",
+        "t_image_1": "assets/Images/Accessories/4-1t.png",
+        "image_2": "assets/Images/Accessories/4-2.png",
+        "t_image_2": "assets/Images/Accessories/4-2t.png",
+        "image_3": "assets/Images/Accessories/4-3.png",
+        "t_image_3": "assets/Images/Accessories/4-3t.png",
+        "offerText":"Buy 2 and Get 1 FREE"
+      },
+      {
+        "id": "05",
+        "name": "Women Maroon Analogue Watch MFB-PN-WTH-6183L-1",
+        "size": [
+          "One Size"
+        ],
+        "price": 1799,
+        "image": "assets/Images/Accessories/5-1.png",
+        "t_image_1": "assets/Images/Accessories/5-1t.png",
+        "image_2": "assets/Images/Accessories/5-2.png",
+        "t_image_2": "assets/Images/Accessories/5-2t.png",
+        "image_3": "assets/Images/Accessories/5-3.png",
+        "t_image_3": "assets/Images/Accessories/5-3t.png",
+        "offerText":"Buy 2 and Get 1 FREE"
+      },
+      {
+        "id": "06",
+        "name": "Pack of 4 Navy Blue Solid Handbags",
+        "size": [
+          "One Size"
+        ],
+        "price": 1039,
+        "image": "assets/Images/Accessories/6-1.png",
+        "t_image_1": "assets/Images/Accessories/6-1t.png",
+        "image_2": "assets/Images/Accessories/6-2.png",
+        "t_image_2": "assets/Images/Accessories/6-2t.png",
+        "image_3": "assets/Images/Accessories/6-3.png",
+        "t_image_3": "assets/Images/Accessories/6-3t.png",
+        "offerText":"Buy 2 and Get 1 FREE"
+      },
+      {
+        "id": "07",
+        "name": "Unisex White Solid Real Madrid Backpack",
+        "size": [
+          "One Size"
+        ],
+        "price": 1599,
+        "image": "assets/Images/Accessories/7-1.png",
+        "t_image_1": "assets/Images/Accessories/7-1t.png",
+        "image_2": "assets/Images/Accessories/7-2.png",
+        "t_image_2": "assets/Images/Accessories/7-2t.png",
+        "image_3": "assets/Images/Accessories/7-3.png",
+        "t_image_3": "assets/Images/Accessories/7-3t.png",
+        "offerText":"Buy 2 and Get 1 FREE"
+      },
+      {
+        "id": "08",
+        "name": "Silver-Plated Oxidised Circular Drop Earrings",
+        "size": [
+          "One Size"
+        ],
+        "price": 1279,
+        "image": "assets/Images/Accessories/8-1.png",
+        "t_image_1": "assets/Images/Accessories/8-1t.png",
+        "image_2": "assets/Images/Accessories/8-2.png",
+        "t_image_2": "assets/Images/Accessories/8-2t.png",
+        "image_3": "assets/Images/Accessories/8-3.png",
+        "t_image_3": "assets/Images/Accessories/8-3t.png",
+        "offerText":"Buy 2 and Get 1 FREE"
+      }
+    ]
+  },
+  "Offer": {
+    "offers": [
+      {
+        "id": "01",
+        "name": "Blink Play - Carbon Black Fitness Earphones",
+        "size": [
+          "One Size"
+        ],
+        "price": 719,
+        "price1": 249,
+        "image": "assets/Images/Offers/1-1.png",
+        "t_image_1": "assets/Images/Offers/1-1t.png",
+        "image_2": "assets/Images/Offers/1-2.png",
+        "t_image_2": "assets/Images/Offers/1-2t.png",
+        "image_3": "assets/Images/Offers/1-3.png",
+        "t_image_3": "assets/Images/Offers/1-3t.png",
+        "offerText": "10% additional discount on HDFC Credit Card",
+        "offerText2": "10% cashback on any UPI Payment"
+      },
+      {
+        "id": "02",
+        "name": "Roadster Men Brown Sneakers",
+        "size": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "price": 840,
+        "price1": 549,
+        "image": "assets/Images/Offers/2-1.png",
+        "t_image_1": "assets/Images/Offers/2-1t.png",
+        "image_2": "assets/Images/Offers/2-2.png",
+        "t_image_2": "assets/Images/Offers/2-2t.png",
+        "image_3": "assets/Images/Offers/2-3.png",
+        "t_image_3": "assets/Images/Offers/2-3t.png",
+        "offerText": "10% additional discount on HDFC Credit Card",
+        "offerText2": "10% cashback on any UPI Payment"
+      },
+      {
+        "id": "03",
+        "name": "Mast & Harbour Women Off-White Analogue Watch",
+        "size": [
+          "One Size"
+        ],
+        "price": 909,
+        "price1": 599,
+        "image": "assets/Images/Offers/3-1.png",
+        "t_image_1": "assets/Images/Offers/3-1t.png",
+        "image_2": "assets/Images/Offers/3-2.png",
+        "t_image_2": "assets/Images/Offers/3-2t.png",
+        "image_3": "assets/Images/Offers/3-3.png",
+        "t_image_3": "assets/Images/Offers/3-3t.png",
+        "offerText": "10% additional discount on HDFC Credit Card",
+        "offerText2": "10% cashback on any UPI Payment"
+      },
+      {
+        "id": "04",
+        "name": "Moda Rapido Men Brown Solid Round Neck T-shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1019,
+        "price1": 899,
+        "image": "assets/Images/Offers/4-1.png",
+        "t_image_1": "assets/Images/Offers/4-1t.png",
+        "image_2": "assets/Images/Offers/4-2.png",
+        "t_image_2": "assets/Images/Offers/4-2t.png",
+        "image_3": "assets/Images/Offers/4-3.png",
+        "t_image_3": "assets/Images/Offers/4-3t.png",
+        "offerText": "10% additional discount on HDFC Credit Card",
+        "offerText2": "10% cashback on any UPI Payment"
+      },
+      {
+        "id": "05",
+        "name": "Tokyo Talkies Women Navy Blue Printed Shirt Dress",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1799,
+        "price1": 1299,
+        "image": "assets/Images/Offers/5-1.png",
+        "t_image_1": "assets/Images/Offers/5-1t.png",
+        "image_2": "assets/Images/Offers/5-2.png",
+        "t_image_2": "assets/Images/Offers/5-2t.png",
+        "image_3": "assets/Images/Offers/5-3.png",
+        "t_image_3": "assets/Images/Offers/5-3t.png",
+        "offerText": "10% additional discount on HDFC Credit Card",
+        "offerText2": "10% cashback on any UPI Payment"
+      },
+      {
+        "id": "06",
+        "name": "WROGN Men Blue & Green Slim Fit Checked Casual Shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1039,
+        "price1": 999,
+        "image": "assets/Images/Offers/6-1.png",
+        "t_image_1": "assets/Images/Offers/6-1t.png",
+        "image_2": "assets/Images/Offers/6-2.png",
+        "t_image_2": "assets/Images/Offers/6-2t.png",
+        "image_3": "assets/Images/Offers/6-3.png",
+        "t_image_3": "assets/Images/Offers/6-3t.png",
+        "offerText": "10% additional discount on HDFC Credit Card",
+        "offerText2": "10% cashback on any UPI Payment"
+      },
+      {
+        "id": "07",
+        "name": "Roadster Navy Blue & Red Regular Fit Casual Shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1599,
+        "price1": 1399,
+        "image": "assets/Images/Offers/7-1.png",
+        "t_image_1": "assets/Images/Offers/7-1t.png",
+        "image_2": "assets/Images/Offers/7-2.png",
+        "t_image_2": "assets/Images/Offers/7-2t.png",
+        "image_3": "assets/Images/Offers/7-3.png",
+        "t_image_3": "assets/Images/Offers/7-3t.png",
+        "offerText": "10% additional discount on HDFC Credit Card",
+        "offerText2": "10% cashback on any UPI Payment"
+      },
+      {
+        "id": "08",
+        "name": "Moda Rapido Men Maroon Printed Round Neck T-shirt",
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "price": 1279,
+        "price1": 1079,
+        "image": "assets/Images/Offers/8-1.png",
+        "t_image_1": "assets/Images/Offers/8-1t.png",
+        "image_2": "assets/Images/Offers/8-2.png",
+        "t_image_2": "assets/Images/Offers/8-2t.png",
+        "image_3": "assets/Images/Offers/8-3.png",
+        "t_image_3": "assets/Images/Offers/8-3t.png",
+        "offerText": "10% additional discount on HDFC Credit Card",
+        "offerText2": "10% cashback on any UPI Payment"
+      }
+    ]
+  }
+}

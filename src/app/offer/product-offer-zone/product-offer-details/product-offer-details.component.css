@@ -1,0 +1,125 @@
+.alertInfo{
+    background-color: #fcf8e3;
+    color:#bf9852;
+    border-color: #e5deba;
+}
+.StockStatus{
+    color:#009900;
+}
+.DropBtn{
+    border-color: #999999;
+    background: linear-gradient(to bottom, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 99%, rgba(181,198,208,1) 99%, rgba(224,239,249,1) 100%);
+    width: 150px;
+    padding: 3px 13px;
+}
+#positive {
+    background-color: #ffffff;
+    color:green;
+}
+
+#negative {
+    background-color: #ffffff;
+    color: red;
+}
+.BuyBtn{
+    background: linear-gradient(to bottom, rgba(248,158,84,1) 0%, rgba(246,117,4,1) 27%, rgba(189,88,0,1) 99%, rgba(248,144,53,1) 100%);
+}
+.OfferAlert{
+    background-color: #D2fDCD;
+    color:#009900;
+    border-color: #99cf99;
+    position: relative;
+}
+.OfferAlert p{
+    text-align: justify;
+}
+#offer{
+    position: absolute;
+    width: 65px;
+    height: 50px;
+    top: 17%;
+    left: -20px;
+    z-index: 1;
+    background: url(../../../../assets/Images/sprite.png) 0px 48px;  
+}
+div a{
+    text-decoration: underline;
+    color: #000000;
+    font-size: 13px;
+}
+nav{
+    justify-content: center;
+}
+nav a:last-child{
+    border: none;
+}
+nav > a{
+    border-right: 1px solid black;
+    line-height: 2px;
+    padding: 5px;
+}
+@media (max-width: 575.98px){
+    #offer{
+    top: 17%;
+    left: 16px;
+    }
+    .OfferAlert{
+        margin-left:20px;
+    }
+    .OfferAlert p{
+        margin-left:15px;
+    }
+    .text-sm-left{
+        text-align: center;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    h4{
+        font-size: 16px;
+    }
+}
+
+/*Gallery CSS*/
+
+#largeImage {
+    border: 1px solid #999999;
+    margin-top: 20px;
+}
+#description {
+   background: black;
+   color: white;
+   position: absolute;
+   bottom: 0;
+   padding: 10px 20px;
+   width: 525px;
+   margin: 5px;
+}
+button{
+    border-style: none;
+    background: none;
+    padding: 0px;
+    justify-content: space-between;
+    margin: 0px 19px 0px 0px;
+}
+#panel {
+    position: relative;
+}
+.col-lg-3{
+    padding: 0px;
+}
+@media (max-width: 576px) {
+    h4{
+        font-size: 16px;
+    }
+    #ProductImg #panel, #ProductImg #thumbs{
+        text-align: center;
+    }
+    button{
+        margin: 0px 9px;
+    }
+}
+@media (min-width: 576px) {
+    button{
+        margin: 0px 19px 0px 0px;
+    }
+}

@@ -1,0 +1,42 @@
+#largeImage {
+    border: 1px solid #999999;
+    margin-top: 20px;
+}
+#description {
+   background: black;
+   color: white;
+   position: absolute;
+   bottom: 0;
+   padding: 10px 20px;
+   width: 525px;
+   margin: 5px;
+}
+button{
+    border-style: none;
+    background: none;
+    padding: 0px;
+    justify-content: space-between;
+    margin: 0px 19px 0px 0px;
+}
+#panel {
+    position: relative;
+}
+.col-lg-3{
+    padding: 0px;
+}
+@media (max-width: 576px) {
+    h4{
+        font-size: 16px;
+    }
+    #ProductImg #panel, #ProductImg #thumbs{
+        text-align: center;
+    }
+    button{
+        margin: 0px 9px;
+    }
+}
+@media (min-width: 576px) {
+    button{
+        margin: 0px 19px 0px 0px;
+    }
+}

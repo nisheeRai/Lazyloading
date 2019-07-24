@@ -1,0 +1,43 @@
+<div class="container">
+  <section>
+    <div class="row wow fadeIn">
+      <!--Grid column-->
+      <div class="col-sm-6 col-md-4 col-lg-3   mt-4" *ngFor='let pro of product.offers'>
+
+        <!--Card-->
+        <div class="card" (click)='onSelect(pro)'>
+
+          <!--Card image-->
+          <div class="view overlay">
+            <img src="{{pro.image}}" class="card-img-top" alt="">
+            <a>
+              <div class="mask rgba-white-slight"></div>
+            </a>
+          </div>
+          <!--Card image-->
+
+          <!--Card content-->
+          <div class="card-body text-center">
+            <!--Category & Title-->
+            <div href="" class="grey-text">
+              <h5>{{pro.name}}</h5>
+            </div>
+            <h4 class="font-weight-bold blue-text">
+              <del>{{pro.price | currency:'INR':'symbol':'3.2-2'}}</del>
+            </h4>
+            <h4>
+              <strong>{{pro.price1 | currency:'INR':'symbol':'3.2-2'}}</strong>
+            </h4>
+
+          </div>
+          <!--Card content-->
+
+        </div>
+        <!--Card-->
+
+      </div>
+      <!--Grid column-->
+      <!--Grid row-->
+    </div>
+  </section>
+</div>

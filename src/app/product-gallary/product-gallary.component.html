@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+      <div id="ProductImg">
+        <div class="d-block d-sm-none">
+          <h4 class="text-left mt-3 mb-1">Jhon Playes Men's Striped Casual Shirt</h4>
+        </div>
+        <div id="panel" class="mt-3">
+          <img src="{{imageSrc}}">
+        </div>
+        <div id="thumbs" class="py-3">
+          <button *ngFor="let imageButton of imageButtons; let i = index" (click)="onClick(imageButton)" class="button">
+            <img src="{{imageButton.src1}}">
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-sm-6 col-md-8 col-lg-9">
+      <app-product-details></app-product-details>
+    </div>
+  </div>
+</div>
