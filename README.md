@@ -2,10 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
-Please install the json-Server by command
+Please install the json-Server by command:
 npm install -g json-server
 
-And then start the json-server 
+And then start the json-server by command: 
 json-server --watch db.json
 
 
