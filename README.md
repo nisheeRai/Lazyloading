@@ -1,6 +1,12 @@
 # Lazyloading
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
+Please install the json-Server by command
+npm install -g json-server
+
+And then start the json-server 
+json-server --watch db.json
+
 
 ## Development server
 
